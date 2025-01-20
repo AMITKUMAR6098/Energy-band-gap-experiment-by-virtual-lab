@@ -1,2 +1,7 @@
-# Energy-band-gap-experiment-by-virtual-lab
-Hindi tranlation of virtual lab experiment Energy band gap experiment 
+यह फोल्डर में है  
+### उद्देश्य  
+### सिद्धांत  
+### प्रक्रिया  
+### पूर्व परीक्षा  
+### पश्चात परीक्षा  
+### संदर्भ
